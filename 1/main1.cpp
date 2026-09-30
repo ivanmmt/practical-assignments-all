@@ -267,7 +267,7 @@ public:
 		return !(*this == other);
 	}
 };
-
+// I created a menu to simplify node input and verify that the code works correctly.
 int main()
 {
 	IntegerSet set;
